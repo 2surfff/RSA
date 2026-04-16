@@ -76,6 +76,6 @@ SHA-256 comes from Python's standard `hashlib`. The XOR cipher is implemented ma
 
 <!-- paste your screenshots below -->
 
-**Server + two clients connected:**
+**Server + three clients connected:**
 
 ![screenshot](screenshot.png)
